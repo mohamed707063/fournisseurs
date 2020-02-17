@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Mon Feb 17 2020 23:24:16 GMT+0100 (heure normale d’Europe centrale)
+------------------------------------------------------
+
+Modified files:
+* public/js/app.js
+* resources/js/app.js
+* resources/views/layouts/master.blade.php
+
+
+Created files:
+* .autogit/logs/log-17-1-2020-22-54-5.txt
+
+
+Deleted files:
+
+
+Renamed files:
