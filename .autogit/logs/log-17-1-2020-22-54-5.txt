@@ -1,0 +1,20 @@
+-------------------- Auto-Git Log --------------------
+		Mon Feb 17 2020 22:54:05 GMT+0100 (heure normale d’Europe centrale)
+------------------------------------------------------
+
+Modified files:
+* composer.json
+* composer.lock
+* public/js/app.js
+* resources/js/app.js
+* resources/js/bootstrap.js
+* resources/views/layouts/master.blade.php
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:
