@@ -16,8 +16,8 @@ scratch. This page gets rid of all links and provides the needed markup only.
     <link rel="stylesheet" href="/css/app.css">
 </head>
 
-<body class="hold-transition sidebar-mini">
-    <div class="wrapper" id="app">
+<body class="hold-transition sidebar-mini" id="app">
+    <div class="wrapper">
 
         <!-- Navbar -->
         <nav class="main-header navbar navbar-expand navbar-white navbar-light">
