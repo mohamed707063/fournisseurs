@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Tue Feb 18 2020 08:41:44 GMT+0100 (heure normale d’Europe centrale)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-18-1-2020-1-26-17.txt
+
+
+Deleted files:
+
+
+Renamed files:
