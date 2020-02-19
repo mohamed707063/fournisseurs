@@ -1,0 +1,21 @@
+-------------------- Auto-Git Log --------------------
+		Wed Feb 19 2020 11:42:08 GMT+0100 (heure normale d’Europe centrale)
+------------------------------------------------------
+
+Modified files:
+* public/js/app.js
+* resources/js/app.js
+* resources/views/home.blade.php
+* resources/views/layouts/master.blade.php
+
+
+Created files:
+* .autogit/logs/log-19-1-2020-11-0-13.txt
+
+
+Deleted files:
+* resources/js/components/Dashboard.vue
+* resources/js/components/Profile.vue
+
+
+Renamed files:
